@@ -1,0 +1,6 @@
+*.tgz
+.eslintrc.json
+.github
+nyc.config.js
+coverage
+test.js
