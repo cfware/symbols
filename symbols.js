@@ -1,5 +1,5 @@
 export default {
-	[Symbol.iterator]: () => ({
-		next: () => ({value: Symbol()})
-	})
+    [Symbol.iterator]: () => ({
+        next: () => ({value: Symbol()})
+    })
 };
